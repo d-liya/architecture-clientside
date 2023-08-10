@@ -140,18 +140,7 @@ State management is handled within the components themselves, so you can focus m
 
 The architecture supports a code generation AI that can be trained to output code in the project's specific format. This can drastically reduce the time needed to build new features.
 
-## Contribution Guidelines
-
-We welcome contributions. Before making any changes, please read our [CONTRIBUTING.md](./CONTRIBUTING.md) file.
-
-## Support and Contact
-
-If you have any questions or need support, please contact us at support@your-organization.com.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
-By following this opinionated design pattern, you'll find building forms in your Next.js application to be a more cohesive and efficient experience. Happy coding!
+This project is licensed under the MIT License.
